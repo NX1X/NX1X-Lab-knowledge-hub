@@ -1,6 +1,6 @@
 # DevOps Knowledge Hub
 
-Welcome to the my DevOps Knowledge Hub! This repository is dedicated to sharing best practices, tools, and resources for junior DevOps.
+Welcome to the my DevOps Knowledge Hub! This repository is dedicated to sharing best practices, tools, and resources for junior DevOps engineers.
 
 ## Contact
 
