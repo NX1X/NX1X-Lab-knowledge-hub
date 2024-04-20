@@ -12,7 +12,7 @@ In this repository, we focus on a variety of technologies and tools that are piv
 
 We also explore various productivity tools to help streamline your workflows and improve project management:
 
-<img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="48" height="48"/>
+ <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="48" height="48"/> <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="48" height="48"/>
 
 ## Contributing
 
@@ -30,9 +30,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name – [YourEmail@example.com](mailto:YourEmail@example.com)
+Your Name – [contact@nx1xlab.com](mailto:contact@nx1xlab.com)
 
-Project Link: [https://github.com/yourusername/repositoryname](https://github.com/yourusername/repositoryname)
+Project Link: [https://github.com/NX1X/NX1X-Lab-knowledge-sharing](https://github.com/NX1X/NX1X-Lab-knowledge-sharing)
 
 ---
 
