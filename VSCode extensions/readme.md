@@ -1,6 +1,6 @@
 # All the VScode extensions I use, recommened for junior DevOps engineers
-Powershell and Bash scripts I used to export this list in an additional files.
-To save & sync your current and future extensions, settings, etc, it is highly recommened to connect your GitHub account to VSCode.
+Powershell and Bash scripts I used to export this list in additional files. 
+To save & sync your current and future extensions, settings, etc, it is highly recommended to connect your GitHub account to VSCode.
 
 -----------
 Terraform
