@@ -5,7 +5,7 @@
 ## Installation guide:
 ## Import my list:
 - # PowerShell (Windows):
-1. Download file: [install_extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/install_extensions.ps1)
+1. Download file: [install_extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/install-extensions.ps1)
 2. Download file: [extensions-win.txt](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/extensions-win.txt)
 3. Make sure the 2 files are located in the same directory
 4. Open the directory on terminal or GUI
@@ -19,7 +19,7 @@
 ---------------
 ## Export your list (To share it with us & your friends):
 - # Powershell (Windows):
-1. Download file: [export_your_extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/export_your_extensions.ps1)
+1. Download file: [export_your_extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/export-your-extensions.ps1)
 2. Open the directory on terminal or GUI
 3. Run the script: 
 - Terminal: .\Export_your_extensions.ps1
