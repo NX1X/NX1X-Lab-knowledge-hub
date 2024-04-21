@@ -3,8 +3,8 @@
 - To save & sync your current and future extensions, settings, etc, it is highly recommended to connect your GitHub account to VSCode.
 
 ## Installation guide:
-## Import my list:
-#### PowerShell (Windows):
+**Import my list:**
+**PowerShell (Windows):**
 1. Download file: [install-extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/Windows%20version/install-extensions.ps1)
 2. Download file: [extensions-win.txt](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/Windows%20version/extensions-win.txt)
 3. Make sure the 2 files are located in the same directory
@@ -18,7 +18,7 @@
 
 ---------------
 ## Export your list (To share it with us & your friends):
-#### Powershell (Windows):
+**Powershell (Windows):**
 1. Download file: [export-your-extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/Windows%20version/export-your-extensions.ps1)
 2. Open the directory on terminal or GUI
 3. Run the script: 
