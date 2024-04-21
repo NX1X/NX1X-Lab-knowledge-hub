@@ -4,6 +4,6 @@ Welcome to my DevOps Knowledge Hub! This repository is dedicated to sharing best
 
 ## Contact
 
-Your Name – [contact@nx1xlab.com](mailto:contact@nx1xlab.com)
+Contact me: [contact@nx1xlab.com](mailto:contact@nx1xlab.com)
 
 Project Link: [https://github.com/NX1X/NX1X-Lab-knowledge-hub](https://github.com/NX1X/NX1X-Lab-knowledge-hub)
