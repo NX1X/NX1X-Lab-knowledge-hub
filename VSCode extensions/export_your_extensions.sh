@@ -27,10 +27,3 @@ echo "Export completed. Check the $outputFile file."
 
 -------------------
 
-# Set the script as executable. Open a terminal, navigate to the directory where you saved the script, and run:
-chmod +x export_vscode_extensions.sh
-
-
-
-# Run the script by typing:
-./export_vscode_extensions.sh

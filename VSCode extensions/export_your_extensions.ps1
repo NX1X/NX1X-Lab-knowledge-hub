@@ -23,10 +23,3 @@ Write-Host "Export completed. Check the $outputFile file."
 
 
 
-
-# Change the execution policy if necessary to allow script execution, if not already set:
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-
-
-# Exectue the script:
-.\Export-VSCodeExtensions.ps1

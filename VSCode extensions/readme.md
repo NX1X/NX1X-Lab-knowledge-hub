@@ -1,8 +1,62 @@
-# All the VSCode extensions I use, recommened for junior DevOps engineers
-Powershell and Bash scripts I used to export this list in additional files. 
-To save & sync your current and future extensions, settings, etc, it is highly recommended to connect your GitHub account to VSCode.
+## All the VSCode extensions I use, recommened for Junior DevOps Engineers
+- Want to share your extensions too? Create a Pull Request (PR) and I will approve it.
+- To save & sync your current and future extensions, settings, etc, it is highly recommended to connect your GitHub account to VSCode.
+
+## Installation guide:
+Import my list:
+- PowerShell (Windows):
+1. Download file: [install_extensions.ps1]()
+2. Download file: [extensions.txt]()
+3. Make sure the 2 files are located in the same directory
+4. Open the directory on terminal or GUI
+5. Run the script: 
+- Terminal: .\install_extensions.ps1
+- GUI: Right click on mouse and choose "Run with PowerShell"
+6. Validate that all extensions were added to VSCode.
+7. Done. Enjoy :)
+
+- Bash (Mac & Linux):
+1. Download file: [install_extensions.sh]()
+2. Download file: [extensions.txt]()
+3. Make sure the 2 files are located in the same directory
+4. Make the script executable: 
+- chmod +x install_extensions.sh
+5. Run the script "install_extensions.sh"
+- ./install_extensions.sh
+6. Validate that all extensions were added to VSCode.
+7. Done. Enjoy :)
+
+---------------
+Export your list (To share it with us & your friends):
+- Powershell (Windows):
+1. Download file: [export_your_extensions.ps1]()
+2. Open the directory on terminal or GUI
+3. Run the script: 
+- Terminal: .\Export_your_extensions.ps1
+- GUI: Right click on mouse and choose "Run with PowerShell"
+4. Validate that the list was exported. You can find it in the same directory under the name "VSCode-Extensions-With-Urls.txt"
+
+
+- Bash (Mac & Linux):
+- Download file: [export_your_extensions.sh]()
+
+
+temp:
+
+# Set the script as executable. Open a terminal, navigate to the directory where you saved the script, and run:
+chmod +x export_vscode_extensions.sh
+
+
+
+# Run the script by typing:
+./export_vscode_extensions.sh
+
+
 
 -----------
+
+### Updated extensions list (Can be installed manually)
+
 Terraform
 https://marketplace.visualstudio.com/items?itemName=4ops.terraform
 
