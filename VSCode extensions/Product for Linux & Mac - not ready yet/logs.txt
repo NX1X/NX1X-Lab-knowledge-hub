@@ -1,0 +1,12 @@
+Starting to install extensions from extensions-linux.txt...
+...talling 4ops.terraform
+Installing extensions...
+' not found.ops.terraform
+Make sure you use the full extension ID, including the publisher, e.g.: ms-dotnettools.csharp
+Failed Installing Extensions: 4ops.terraform
+...talling alefragnani.bookmarks
+Installing extensions...
+' not found.lefragnani.bookmarks
+Make sure you use the full extension ID, including the publisher, e.g.: ms-dotnettools.csharp
+Failed Installing Extensions: alefragnani.bookmarks
+...talling alefragnani.project-manager

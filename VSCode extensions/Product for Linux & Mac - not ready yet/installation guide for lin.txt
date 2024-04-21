@@ -1,0 +1,21 @@
+
+import:
+
+
+- # Bash (Mac & Linux):
+1. Download file: [install_extensions.sh]()
+2. Download file: [extensions.txt]()
+3. Make sure the 2 files are located in the same directory
+4. Make the script executable: 
+- chmod +x install_extensions.sh
+5. Run the script "install_extensions.sh"
+- ./install_extensions.sh
+6. Validate that all extensions were added to VSCode.
+7. Done. Enjoy :)
+
+
+
+export:
+- # Bash (Mac & Linux):
+- Download file: [export_your_extensions.sh]()
+

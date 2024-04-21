@@ -1,0 +1,43 @@
+# Set the script as executable. Open a terminal, navigate to the directory where you saved the script, and run:
+chmod +x export_vscode_extensions.sh
+
+
+
+# Run the script by typing:
+./export_vscode_extensions.sh
+
+
+
+temp:
+
+# Set the script as executable. Open a terminal, navigate to the directory where you saved the script, and run:
+chmod +x export_vscode_extensions.sh
+
+
+
+# Run the script by typing:
+./export_vscode_extensions.sh
+
+
+
+Terminal Method
+Open your terminal.
+Navigate to the directory where your script is located using the cd command.
+Run the following command to make your script executable:
+
+chmod +x script-name.sh
+
+GUI Method
+Navigate to the folder containing your script using your file manager.
+Right-click on the script file.
+Select "Properties" or a similar option from the context menu.
+Look for a "Permissions" tab or section.
+Check the option that says “Allow executing file as program” or “Make file executable”.
+
+
+
+Step 2: Run the Script from GUI
+After making the script executable, you can run it directly from the file manager:
+
+Double-click the script file. Depending on your desktop environment, this might run the script directly, or it might prompt you with a dialog asking if you want to Run or Display the script.
+Choose “Run in Terminal” or simply “Run” depending on what options are available. This will execute the script in a terminal window, allowing you to see any output or provide input if necessary.
