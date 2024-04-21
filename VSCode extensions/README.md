@@ -14,7 +14,6 @@
 - GUI: Right click on mouse and choose "Run with PowerShell"
 6. Validate that all extensions were added to VSCode.
 7. Done. Enjoy :)
--
 
 ---------------
 ## Export your list (To share it with us & your friends):
@@ -25,6 +24,7 @@
 - Terminal: .\export-your-extensions.ps1
 - GUI: Right click on mouse and choose "Run with PowerShell"
 4. Validate that the list was exported. You can find it in the same directory under the name "VSCode-Extensions-With-Urls.txt"
+5. Done. Enjoy :)
 
 
 -----------
