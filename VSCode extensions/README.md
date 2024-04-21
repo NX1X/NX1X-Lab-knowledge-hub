@@ -17,7 +17,7 @@
 
 ---------------
 ## Export your list (To share it with us & your friends):
-**Powershell (Windows):**
+**PowerShell (Windows):**
 1. Download file: [export-your-extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/Windows%20version/export-your-extensions.ps1)
 2. Open the directory on terminal or GUI
 3. Run the script: 
