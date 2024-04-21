@@ -5,12 +5,12 @@
 ## Installation guide:
 ## Import my list:
 - # PowerShell (Windows):
-1. Download file: [install_extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/install-extensions.ps1)
+1. Download file: [install-extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/install-extensions.ps1)
 2. Download file: [extensions-win.txt](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/extensions-win.txt)
 3. Make sure the 2 files are located in the same directory
 4. Open the directory on terminal or GUI
 5. Run the script: 
-- Terminal: .\install_extensions.ps1
+- Terminal: .\install-extensions.ps1
 - GUI: Right click on mouse and choose "Run with PowerShell"
 6. Validate that all extensions were added to VSCode.
 7. Done. Enjoy :)
@@ -19,10 +19,10 @@
 ---------------
 ## Export your list (To share it with us & your friends):
 - # Powershell (Windows):
-1. Download file: [export_your_extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/export-your-extensions.ps1)
+1. Download file: [export-your-extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/export-your-extensions.ps1)
 2. Open the directory on terminal or GUI
 3. Run the script: 
-- Terminal: .\Export_your_extensions.ps1
+- Terminal: .\export-your-extensions.ps1
 - GUI: Right click on mouse and choose "Run with PowerShell"
 4. Validate that the list was exported. You can find it in the same directory under the name "VSCode-Extensions-With-Urls.txt"
 
