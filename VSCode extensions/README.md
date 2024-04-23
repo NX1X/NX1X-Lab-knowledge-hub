@@ -15,8 +15,6 @@
 6. Validate that all extensions were added to VSCode.
 7. Done. Enjoy :)
 
-`git status`
-
 ---------------
 ## Export your list (To share it with us & your friends):
 **PowerShell (Windows):**
