@@ -10,7 +10,7 @@
 3. Make sure the 2 files are located in the same directory
 4. Open the directory on terminal or GUI
 5. Run the script: 
-- Terminal: .\install-extensions.ps1
+- Terminal: ```.\install-extensions.ps1```
 - GUI: Right click on mouse and choose "Run with PowerShell"
 6. Validate that all extensions were added to VSCode.
 7. Done. Enjoy :)
