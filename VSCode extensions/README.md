@@ -21,11 +21,9 @@
 1. Download file: [export-your-extensions.ps1](https://github.com/NX1X/NX1X-Lab-knowledge-hub/blob/main/VSCode%20extensions/Windows%20version/export-your-extensions.ps1)
 2. Open the directory on terminal or GUI
 3. Run the script:
-4. ```
-.\export-your-extensions.ps1
-}
-```
-- Terminal: .\export-your-extensions.ps1
+4. 
+- Terminal:
+```.\export-your-extensions.ps1```
 - GUI: Right click on mouse and choose "Run with PowerShell"
 4. Validate that the list was exported. You can find it in the same directory under the name "VSCode-Extensions-With-Urls.txt"
 5. Done. Enjoy :)
