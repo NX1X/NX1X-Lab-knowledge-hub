@@ -1,4 +1,4 @@
-## All the VSCode extensions I use, recommened for Junior DevOps Engineers
+## All the VSCode extensions I use, recommened for System Administrators & DevOps Engineers
 - Want to share your extensions too? Create a Pull Request (PR) and I will approve it.
 - To save & sync your current and future extensions, settings, etc, it is highly recommended to connect your GitHub account to VSCode.
 
